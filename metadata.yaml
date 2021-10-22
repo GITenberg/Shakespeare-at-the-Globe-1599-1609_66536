@@ -1,11 +1,16 @@
 _repo: Shakespeare-at-the-Globe-1599-1609_66536
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66536-h/images/cover.jpg
 creator:
   author:
     agent_name: Beckerman, Bernard
     gutenberg_agent_id: '53856'
     url: http://www.gutenberg.org/2009/agents/53856
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66536#Shakespeare-at-the-Globe-1599-1609
 gutenberg_issued: '2021-10-14'
 identifiers:
   gutenberg: '66536'
